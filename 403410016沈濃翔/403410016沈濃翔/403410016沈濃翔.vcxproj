@@ -212,6 +212,7 @@
   <ItemGroup>
     <Image Include="res\403410016沈濃翔.ico" />
     <Image Include="res\403410016沈濃翔Doc.ico" />
+    <Image Include="res\toolbar1.bmp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

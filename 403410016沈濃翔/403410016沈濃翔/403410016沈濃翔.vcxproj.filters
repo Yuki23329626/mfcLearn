@@ -71,5 +71,8 @@
     <Image Include="res\403410016沈濃翔.ico">
       <Filter>資源檔</Filter>
     </Image>
+    <Image Include="res\toolbar1.bmp">
+      <Filter>資源檔</Filter>
+    </Image>
   </ItemGroup>
 </Project>
